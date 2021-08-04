@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>754137971637-kqdvri7rmoorbom4qs3466q3afl4skjr.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.754137971637-kqdvri7rmoorbom4qs3466q3afl4skjr</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>754137971637-adac36d8m12crvtue4rig8j20jjq2bio.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC6Aqj8Ch7JIwykcyStejgBrvNJ6n-utUA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>754137971637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.marcos.pruebas</string>
+	<key>PROJECT_ID</key>
+	<string>papaya-project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>papaya-project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:754137971637:ios:5e8d2ed4d5e363ca08b7fc</string>
+	<key>DATABASE_URL</key>
+	<string>https://papaya-project.firebaseio.com</string>
+</dict>
+</plist>

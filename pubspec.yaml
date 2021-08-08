@@ -21,16 +21,18 @@ environment:
   sdk: ">=2.12.0 <3.0.0"
 
 dependencies:
-  flutter:
-    sdk: flutter
   apple_sign_in: ^0.1.0
   cupertino_icons: ^1.0.2
   device_info: ^2.0.2
-  firebase_auth: ^1.4.1
+  firebase_auth: ^3.0.1
   firebase_core: ^1.3.0
   firebase_database: ^7.1.2
+  firebase_messaging: ^10.0.4
+  flutter:
+    sdk: flutter
   google_sign_in: ^5.0.4
   intl: ^0.17.0
+  overlay_support: ^1.2.1
 
 dev_dependencies:
   flutter_test:
